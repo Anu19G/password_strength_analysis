@@ -1,0 +1,23 @@
+# Overview
+
+This project explores password creation, evaluation, and security testing through both theoretical and practical approaches.
+
+**Key Activities:**
+- Generated strong passwords using Windows PowerShell and Kali Linux tools.
+- Evaluated passwords with [PasswordMeter.com](https://passwordmeter.com).
+- Improved weaker password to enhance resistance against attacks.
+- Simulated **dictionary attacks** with John the Ripper.
+- Simulated **brute force attacks** with Hashcat.
+- Compared attack results between weak and strong passwords.
+
+**Core Findings:**
+- Strong passwords (16+ chars, mixed charset) are highly resistant to common attacks.
+- Weak passwords (short, predictable) can be cracked in seconds.
+- Complexity and randomness drastically increase attack time.
+
+**Deliverables:**
+- PDF reports of password evaluations
+- Screenshots of attack simulations
+- Comparative analysis table
+
+This work demonstrates the importance of password hygiene and showcases hands-on cybersecurity skills.
