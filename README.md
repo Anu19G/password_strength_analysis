@@ -1,17 +1,5 @@
 # Password Strength Analysis
 
-## 📄 Overview
-This project demonstrates the process of creating strong passwords, evaluating their strength, and testing them against common password-cracking techniques.  
-It includes:
-- Password generation and testing
-- Improvement of weaker passwords
-- Simulated dictionary and brute force attacks
-- Practical demonstration of attack resistance
-
-The analysis highlights why password length, complexity, and randomness are crucial for security.
-
----
-
 ## 🎯 Objective
 Understand what makes a password strong, evaluate it using password strength tools, and test its resistance to:
 - Dictionary attacks
